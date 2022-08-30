@@ -86,7 +86,9 @@ nav > a{
     transition-duration: 0.3s;
 }
 
-a
+a{
+    
+}
 
 nav > a:hover{
     background-color: var(--cor3);
